@@ -34,9 +34,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          I am a new graduate computer engineer. Currently, i am 
-          working on deep learning based ai applications. In the future, i want 
-          to extand my area of interest to the augmented reality as well. 
+          ...
         </motion.p>
       
       <div className='mt-20 flex flex-wrap gap-10'>
